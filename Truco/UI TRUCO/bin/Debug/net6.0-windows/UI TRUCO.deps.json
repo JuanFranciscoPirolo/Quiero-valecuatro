@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UI TRUCO/1.0.0": {
+        "dependencies": {
+          "ManejadorCartas": "1.0.0"
+        },
+        "runtime": {
+          "UI TRUCO.dll": {}
+        }
+      },
+      "ManejadorCartas/1.0.0": {
+        "runtime": {
+          "ManejadorCartas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UI TRUCO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManejadorCartas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

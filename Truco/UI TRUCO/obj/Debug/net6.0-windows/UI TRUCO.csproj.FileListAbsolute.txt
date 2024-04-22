@@ -1,0 +1,23 @@
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\bin\Debug\net6.0-windows\UI TRUCO.exe
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\bin\Debug\net6.0-windows\UI TRUCO.deps.json
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\bin\Debug\net6.0-windows\UI TRUCO.runtimeconfig.json
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\bin\Debug\net6.0-windows\UI TRUCO.dll
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\bin\Debug\net6.0-windows\UI TRUCO.pdb
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\bin\Debug\net6.0-windows\ManejadorCartas.dll
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\bin\Debug\net6.0-windows\ManejadorCartas.pdb
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\obj\Debug\net6.0-windows\UI TRUCO.csproj.AssemblyReference.cache
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\obj\Debug\net6.0-windows\UI_TRUCO.ElegirPersonaje.resources
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\obj\Debug\net6.0-windows\UI_TRUCO.FormularioPrincipal.resources
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\obj\Debug\net6.0-windows\UI_TRUCO.frmPartidaTruco.resources
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\obj\Debug\net6.0-windows\UI_TRUCO.Properties.Resources.resources
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\obj\Debug\net6.0-windows\UI TRUCO.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\obj\Debug\net6.0-windows\UI TRUCO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\obj\Debug\net6.0-windows\UI TRUCO.AssemblyInfoInputs.cache
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\obj\Debug\net6.0-windows\UI TRUCO.AssemblyInfo.cs
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\obj\Debug\net6.0-windows\UI TRUCO.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\obj\Debug\net6.0-windows\UI TRUCO.csproj.CopyComplete
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\obj\Debug\net6.0-windows\UI TRUCO.dll
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\obj\Debug\net6.0-windows\refint\UI TRUCO.dll
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\obj\Debug\net6.0-windows\UI TRUCO.pdb
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\obj\Debug\net6.0-windows\UI TRUCO.genruntimeconfig.cache
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\UI TRUCO\obj\Debug\net6.0-windows\ref\UI TRUCO.dll

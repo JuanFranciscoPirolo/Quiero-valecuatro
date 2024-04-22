@@ -1,0 +1,11 @@
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\ManejadorCartas\bin\Debug\net6.0\ManejadorCartas.deps.json
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\ManejadorCartas\bin\Debug\net6.0\ManejadorCartas.dll
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\ManejadorCartas\bin\Debug\net6.0\ManejadorCartas.pdb
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\ManejadorCartas\obj\Debug\net6.0\ManejadorCartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\ManejadorCartas\obj\Debug\net6.0\ManejadorCartas.AssemblyInfoInputs.cache
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\ManejadorCartas\obj\Debug\net6.0\ManejadorCartas.AssemblyInfo.cs
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\ManejadorCartas\obj\Debug\net6.0\ManejadorCartas.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\ManejadorCartas\obj\Debug\net6.0\ManejadorCartas.dll
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\ManejadorCartas\obj\Debug\net6.0\refint\ManejadorCartas.dll
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\ManejadorCartas\obj\Debug\net6.0\ManejadorCartas.pdb
+C:\Users\profe\Desktop\Carpetas de GitHub\Truco\ManejadorCartas\obj\Debug\net6.0\ref\ManejadorCartas.dll

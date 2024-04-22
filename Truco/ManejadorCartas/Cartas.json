@@ -1,0 +1,218 @@
+﻿[
+  {
+    "numero": 1,
+    "palo": "espada",
+    "valor": 51,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/1 ESPADA.jpeg"
+  },
+  {
+    "numero": 1,
+    "palo": "basto",
+    "valor": 50,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/1 BASTO.jpeg"
+  },
+  {
+    "numero": 7,
+    "palo": "espada",
+    "valor": 49,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/7 ESPADA.jpeg"
+  },
+  {
+    "numero": 7,
+    "palo": "oro",
+    "valor": 48,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/7 ORO.jpeg"
+  },
+  {
+    "numero": 3,
+    "palo": "espada",
+    "valor": 47,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/3 ESPADA.jpeg"
+  },
+  {
+    "numero": 3,
+    "palo": "oro",
+    "valor": 47,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/3 ORO.jpeg"
+  },
+  {
+    "numero": 3,
+    "palo": "copa",
+    "valor": 47,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/3 COPA.jpeg"
+  },
+  {
+    "numero": 3,
+    "palo": "basto",
+    "valor": 47,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/3 BASTO.jpeg"
+  },
+  {
+    "numero": 1,
+    "palo": "oro",
+    "valor": 46,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/1 ORO.jpeg"
+  },
+  {
+    "numero": 1,
+    "palo": "copa",
+    "valor": 46,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/1 COPA.jpeg"
+  },
+  {
+    "numero": 12,
+    "palo": "espada",
+    "valor": 45,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/12 ESPADA.jpeg"
+  },
+  {
+    "numero": 12,
+    "palo": "oro",
+    "valor": 45,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/12 ORO.jpeg"
+  },
+  {
+    "numero": 12,
+    "palo": "basto",
+    "valor": 45,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/12 BASTO.jpeg"
+  },
+  {
+    "numero": 12,
+    "palo": "copa",
+    "valor": 45,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/12 COPA.jpeg"
+  },
+  {
+    "numero": 11,
+    "palo": "espada",
+    "valor": 44,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/11 ESPADA.jpeg"
+  },
+  {
+    "numero": 11,
+    "palo": "oro",
+    "valor": 44,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/11 ORO.jpeg"
+  },
+  {
+    "numero": 11,
+    "palo": "copa",
+    "valor": 44,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/11 COPA.jpeg"
+  },
+  {
+    "numero": 11,
+    "palo": "basto",
+    "valor": 44,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/11 BASTO.jpeg"
+  },
+  {
+    "numero": 10,
+    "palo": "espada",
+    "valor": 43,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/10 ESPADA.jpeg"
+  },
+  {
+    "numero": 10,
+    "palo": "oro",
+    "valor": 43,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/10 ORO.jpeg"
+  },
+  {
+    "numero": 10,
+    "palo": "basto",
+    "valor": 43,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/10 BASTO.jpeg"
+  },
+  {
+    "numero": 10,
+    "palo": "copa",
+    "valor": 43,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/10 COPA.jpeg"
+  },
+  {
+    "numero": 7,
+    "palo": "basto",
+    "valor": 42,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/7 BASTO.jpeg"
+  },
+  {
+    "numero": 7,
+    "palo": "copa",
+    "valor": 42,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/7 COPA.jpeg"
+  },
+  {
+    "numero": 6,
+    "palo": "oro",
+    "valor": 41,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/6 ORO.jpeg"
+  },
+  {
+    "numero": 6,
+    "palo": "espada",
+    "valor": 41,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/6 ESPADA.jpeg"
+  },
+  {
+    "numero": 6,
+    "palo": "copa",
+    "valor": 41,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/6 COPA.jpeg"
+  },
+  {
+    "numero": 6,
+    "palo": "basto",
+    "valor": 41,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/6 BASTO.jpeg"
+  },
+  {
+    "numero": 5,
+    "palo": "espada",
+    "valor": 40,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/5 ESPADA.jpeg"
+  },
+  {
+    "numero": 5,
+    "palo": "oro",
+    "valor": 40,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/5 ORO.jpeg"
+  },
+  {
+    "numero": 5,
+    "palo": "basto",
+    "valor": 40,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/5 BASTO.jpeg"
+  },
+  {
+    "numero": 5,
+    "palo": "copa",
+    "valor": 40,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/5 COPA.jpeg"
+  },
+  {
+    "numero": 4,
+    "palo": "oro",
+    "valor": 39,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/4 ORO.jpeg"
+  },
+  {
+    "numero": 4,
+    "palo": "espada",
+    "valor": 39,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/4 ESPADA.jpeg"
+  },
+  {
+    "numero": 4,
+    "palo": "basto",
+    "valor": 39,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/4 BASTO.jpeg"
+  },
+  {
+    "numero": 4,
+    "palo": "copa",
+    "valor": 39,
+    "imagen": "../../../../ManejadorCartas/ImagenesCartas/4 COPA.jpeg"
+  }
+]
